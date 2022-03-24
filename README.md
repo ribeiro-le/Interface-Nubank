@@ -46,13 +46,8 @@ npm add react-native-vector-icons
 react native link react-native-vector-icons
 ```
 
-## Challenge Result
+## Final Result
 
 <img alt="Home Nubank" src="src/assets/homenbank.png" height="400px" width="250px" />
 
 <img alt="Home Nubank" src="src/assets/homenbank2.png" height="400px" width="250px" />
-
-<video width="320" height="240" controls>
-  <source src="src/assets/videonbank.mp4" type="video/mp4">
-
-</video>
