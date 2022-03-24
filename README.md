@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/88807757/159995393-ee0bcf44-aca9-466e-9251-45cc8dc82a85.mp4
+
 # Clone Interface do Nubank
 
 **React Native Interface App** using **Styled Components**
